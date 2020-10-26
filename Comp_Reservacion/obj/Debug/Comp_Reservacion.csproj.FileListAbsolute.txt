@@ -1,0 +1,8 @@
+C:\Users\usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Comp_Reservacion\bin\Debug\Comp_Reservacion.dll
+C:\Users\usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Comp_Reservacion\bin\Debug\Comp_Reservacion.pdb
+C:\Users\usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Comp_Reservacion\obj\Debug\Comp_Reservacion.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Comp_Reservacion\obj\Debug\Comp_Reservacion.Reservaciones.resources
+C:\Users\usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Comp_Reservacion\obj\Debug\Comp_Reservacion.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Comp_Reservacion\obj\Debug\Comp_Reservacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Comp_Reservacion\obj\Debug\Comp_Reservacion.dll
+C:\Users\usuario\Desktop\MATERIAS\TOPICOS_AVANZADOS_PROGRAMACION\Comp_Reservacion\obj\Debug\Comp_Reservacion.pdb
